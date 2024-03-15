@@ -1,0 +1,1 @@
+higher order functions are the functions which returns other functions return value.
